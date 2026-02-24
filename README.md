@@ -1,5 +1,3 @@
-
-
 # McIntosh Limited Edition Digital Audio Player
 ## Inspired by the high-end McIntosh MSA5500 2-Channel Streaming Integrated Amplifier and DS200 STREAMING DAC
 
