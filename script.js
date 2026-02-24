@@ -846,11 +846,11 @@ function drawEQCurve() {
 
     // Courbe "McIntosh"
     eqCtx.beginPath();
-    eqCtx.strokeStyle = "#00c3ff";
+    eqCtx.strokeStyle = "#fa9b1e";
     eqCtx.lineWidth = 3;
     eqCtx.lineCap = "round";
     eqCtx.shadowBlur = 10;
-    eqCtx.shadowColor = "#00ff66";
+    eqCtx.shadowColor = "#fa9b1e";
     eqCtx.moveTo(points[0].x, points[0].y);
     for (let i = 0; i < points.length - 1; i++) {
         const xc = (points[i].x + points[i + 1].x) / 2;

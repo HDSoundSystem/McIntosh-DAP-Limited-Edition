@@ -55,9 +55,9 @@
     appearance: none;
     width: 12px;
     height: 25px;
-    background: var(--mc-blue);
+    background: #fa9b1e;
     border-radius: 2px;
-    box-shadow: 0 0 5px #00ff66;
+    box-shadow: 0 0 5px #fa9b1e;
 }
 
 .eq-band span {
