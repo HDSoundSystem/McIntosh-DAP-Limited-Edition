@@ -1,6 +1,6 @@
 {
   "name": "McIntosh Limited Edition DAP",
-  "short_name": "McIntosh DAP",
+  "short_name": "McIntosh DAP LE",
   "description": "McIntosh Limited Edition Digital Audio Player",
   "start_url": "/",
   "display": "standalone",
