@@ -124,13 +124,6 @@ The **McIntosh DAP** is a premium web-based audio application that recreates the
   - Volume display overlay (auto-hides after 2 seconds)
   - EQ preset indicator: `| EQ ROCK`, `| EQ JAZZ`, `| EQ CUSTOM`, etc. — displayed when any non-flat EQ is active
 
-#### Display Modes
-- **Normal Mode**: Full illumination
-- **Alternate Logo**: Toggle between mc-logo.png and mc-logo-off.png
-- **Alternate VU Backgrounds**: Different meter designs
-- **VFD Blackout Mode**: Complete display shutdown
-- **Label Dimming**: All green labels turn gray when display is off
-
 #### Interactive Elements
 - **Album Art Viewer**: Click track title to view embedded artwork in popup
 - **Interactive Playlist**: Click track counter to browse and select tracks
